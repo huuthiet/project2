@@ -52,7 +52,7 @@ function Navbar() {
               <Link to="/profile">Profile</Link>
             </li>
             <li>
-              <Link to="/Works">Browse Works</Link>
+              <Link to="/manager-energy">Energy</Link>
             </li>
             <li>
               <Link to="/help">Help</Link>
